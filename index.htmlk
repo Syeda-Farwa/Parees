@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kabhi Main Kabhi Tum</title>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <h1>Kabhi Main Kabhi Tum</h1>
+            <p>Drama Series - A Journey of Love and Emotions</p>
+            <ul>
+                <li><a href="#intro" target="_self">Home</a></li>
+                <li><a href="#cast" target="_blank">Meet The Cast</a></li>
+                <li><a href="#images" target="_blank">Gallery</a></li>
+                <li><a href="#videos" target="_blank">Videos</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <span class="main">
+        <h1 class="MS">Mustafa & Sharjeena</h1>
+    </span>
+
+    <div class="starting">
+        <video src="Teaser.mp4" controls muted width="600px" poster="trailer thumb.jpg"></video>
+    </div>
+
+    <div class="starting">
+        <video src="achalaga.mp4" controls muted width="700px"></video>
+    </div>
+
+    <section id="intro">
+        <h2>About "Kabhi Main Kabhi Tum"</h2>
+        <p>Kabhi Main Kabhi Tum is a beautiful love story that explores the depth of emotions, where love is not just an
+            expression, but the very essence of life. It tells the journey of two souls, finding each other amidst the
+            complexities of life. Every moment is filled with love, heartache, and the promise of togetherness, making
+            it a story that touches the heart and stays forever.</p>
+    </section>
+
+    <section id="casting">
+        <h2>Meet The Cast</h2>
+        <div class="meetcast">
+            <div class="cast">
+                <img src="6c.png" alt="pic 1">
+                <h5>Fahad Mustafa</h5>
+                <p>Mustafa</p>
+            </div>
+            <div class="cast">
+                <img src="7c.jpg" alt="pic2">
+                <h5>Hania Amir</h5>
+                <p>Sharjeena</p>
+            </div>
+            <div class="cast">
+                <img src="8c.jpg">
+                <h5>Emmad Irfani</h5>
+                <p>Adeel</p>
+            </div>
+            <div class="cast">
+                <img src="14c" style="width: 95px; height: 80px;">
+                <h5>Areej Chaudhary</h5>
+                <p>Natasha</p>
+            </div>
+            <div class="cast">
+                <img src="15c.jpg" style="width: 95px; height: 80px;">
+                <h5>Naeema Butt</h5>
+                <p>Rubab</p>
+            </div>
+            <div class="cast">
+                <img src="9c.jpg">
+                <h5>Maya Khan</h5>
+                <p>Sidra</p>
+            </div>
+            <div class="cast">
+                <img src="10c.jpg">
+                <h5>Javaid Shaikh</h5>
+                <p>Iftikhar</p>
+            </div>
+            <div class="cast">
+                <img src="11c.jpg">
+                <h5>Bushra Ansari</h5>
+                <p>Shagufta</p>
+            </div>
+            <div class="cast">
+                <img src="12c.jpg">
+                <h5>Tauseeq Haider</h5>
+                <p>Murtaza</p>
+            </div>
+            <div class="cast">
+                <img src="13c.jpg">
+                <h5>Annie Zaidi</h5>
+                <p>Salma</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="images">
+        <h2>Gallery</h2>
+        <div class="image-gallery">
+            <img src="1.jpg" width="350px">
+            <img src="3.jpg" width="350px">
+            <img src="2.jpg" width="350px">
+            <img src="4.jpg" width="350px">
+            <img src="5.jpg" width="350px">
+            <img src="6.jpg" width="350px">
+        </div>
+    </section>
+
+    <section id="videos">
+        <h2>Official Clips</h2>
+        <div class="video-container">
+            <video src="wed.mp4" controls muted width="300px"></video>
+            <video src="to this2.mp4" controls muted width="300px"></video>
+            <video src="Then this.mp4" controls muted width="300px"></video>
+            <div class="posi">
+                <video src="finaly.mp4" controls muted width="450px"></video>
+            </div>
+            <div class="posi2">
+                <video src="feel.mp4" controls muted width="600px"></video>
+            </div>
+            </video>
+            </video>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; Kabhi Main Kabhi Tum, All Time Favourite</p>
+      </footer>
+    
+
+</body>
+</html>
